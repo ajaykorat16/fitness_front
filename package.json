@@ -1,0 +1,74 @@
+{
+  "name": "raw",
+  "homepage": "https://raw1.eyeuniversal.com/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/colors": "^6.0.0",
+    "@ant-design/icons": "^4.7.0",
+    "@apollo/client": "^3.5.10",
+    "@fullcalendar/core": "^5.10.1",
+    "@fullcalendar/daygrid": "^5.10.1",
+    "@fullcalendar/react": "^5.10.1",
+    "@fullcalendar/timegrid": "^5.11.3",
+    "@panelist/react-hls-player": "^3.0.8",
+    "@react-icons/all-files": "^4.1.0",
+    "@stripe/react-stripe-js": "^1.12.0",
+    "@stripe/stripe-js": "^1.38.1",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "antd": "^4.17.2",
+    "antd-img-crop": "^4.0.2",
+    "antd-mask-input": "^0.1.15",
+    "axios": "^0.24.0",
+    "hls.js": "^1.1.3",
+    "install": "^0.13.0",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.37",
+    "query-string": "^7.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hls-player": "^3.0.7",
+    "react-hot-loader": "^4.13.0",
+    "react-icons": "^4.3.1",
+    "react-loading-skeleton": "^3.1.0",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.0.2",
+    "react-scripts": "^4.0.3",
+    "react-social-login": "^3.4.15",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1",
+    "sass": "^1.55.0",
+    "video-react": "^0.15.0",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.9"
+  }
+}
